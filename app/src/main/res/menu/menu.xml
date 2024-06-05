@@ -1,0 +1,11 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/menu_item1"
+        android:title="Danh sách đề tài"/>
+    <item
+        android:id="@+id/menu_item2"
+        android:title="Quản lí thông báo"/>
+    <item
+        android:id="@+id/menu_item3"
+        android:title="Xuất báo cáo"/>
+</menu>
